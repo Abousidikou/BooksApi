@@ -92,7 +92,7 @@ func main() {
 	// Mock books for test
 	books = append(books, Book{ID: "1", Title: "Au pays", Author: &Author{Fistname: "John", Lastname: "sidik"}})
 	books = append(books, Book{ID: "2", Title: "Au pays des arbres", Author: &Author{Fistname: "Jonas", Lastname: "sidi"}})
-	books = append(books, Book{ID: "3", Title: "Au pays des eaux", Author: &Author{Fistname: "Joe", Lastname: "sid"}})
+	books = append(books, Book{ID: "5", Title: "Au pays des eaux", Author: &Author{Fistname: "Joe", Lastname: "sid"}})
 
 	//Router
 	router.HandleFunc("/api/books", getBooks).Methods("GET")
