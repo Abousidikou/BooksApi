@@ -86,7 +86,7 @@ func deleteBook(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	fmt.Println("Starting restful api...")
+	fmt.Println("Starting restful api on :8000")
 	router := mux.NewRouter()
 
 	// Mock books for test
