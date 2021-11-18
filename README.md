@@ -5,6 +5,8 @@ Rest Api for listing books
 ###  Usage 
 go run main.go 
 
+Docker had been created for this server sake
+
 ## Client 
 localhost:8000/api/books //See all books
 
