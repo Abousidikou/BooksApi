@@ -5,7 +5,11 @@ Rest Api for listing books
 ###  Usage 
 go run main.go 
 
-Docker had been created for this server sake
+Docker image  had been created for this server sake: sidikhub/bookapi:latest
+
+```bash
+docker run 
+```
 
 ## Client 
 localhost:8000/api/books //See all books
