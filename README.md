@@ -8,7 +8,7 @@ go run main.go
 Docker image  had been created for this server sake: sidikhub/bookapi:latest
 
 ```bash
-docker run 
+docker run -p 8000:8000 sidikhub/bookapi:latest
 ```
 
 ## Client 
