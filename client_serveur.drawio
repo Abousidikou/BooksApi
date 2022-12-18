@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T10:14:56.903Z" agent="5.0 (X11)" version="20.6.2" etag="Q7qaccD-AZPLXAk0fSh_" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-18T10:15:21.366Z" agent="5.0 (X11)" version="20.6.2" etag="JGZyATqpWKJ74pqr18TA" type="github">
   <diagram id="4JcGcYxDaTWrSnIuFeD_" name="Page-1">
     <mxGraphModel dx="728" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,6 +57,12 @@
         </mxCell>
         <mxCell id="zg0A1C2LEaln6UAvxh7A-17" value="Connexion fermée par l&#39;un des cotés" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="190" y="370" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zg0A1C2LEaln6UAvxh7A-18" value="Client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="89" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zg0A1C2LEaln6UAvxh7A-19" value="Serveur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="455" y="10" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
