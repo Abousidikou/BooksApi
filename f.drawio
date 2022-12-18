@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T07:22:51.588Z" agent="5.0 (X11)" etag="MNM0OMOcyTgglefNTiqb" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-18T07:36:40.232Z" agent="5.0 (X11)" etag="-MRHqYvniVTkPq-WUWTN" version="20.6.2" type="github">
   <diagram id="J6xmOw-4di3mZoSaR83n" name="Page-1">
     <mxGraphModel dx="728" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AFfNs0UEousIHZEFuUwl-1" value="Tests et évaluation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB570;" parent="1" vertex="1">
+        <mxCell id="AFfNs0UEousIHZEFuUwl-1" value="Tests" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB570;" parent="1" vertex="1">
           <mxGeometry x="560" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AFfNs0UEousIHZEFuUwl-2" value="&lt;p id=&quot;docs-internal-guid-c5b7fe21-7fff-024a-27fc-f3bee4895180&quot; style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-family: Cambria, serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Mise en place de la plateforme de visualisation&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB570;" parent="1" vertex="1">
