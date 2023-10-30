@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T20:00:15.395Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="aNdOIIfRIAufpjM84BGX" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T20:08:07.075Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="_mHAjhYvtrJcy1c5HTXz" version="22.0.8" type="github">
   <diagram name="Page-1" id="H9A18gkoC2Fcs-PtQ5p-">
     <mxGraphModel dx="744" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,10 +40,10 @@
         <mxCell id="Cr8kg0-9z8LWTzDofk2w-13" value="Interface Mobile" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="270" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cr8kg0-9z8LWTzDofk2w-16" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Cr8kg0-9z8LWTzDofk2w-1">
+        <mxCell id="Cr8kg0-9z8LWTzDofk2w-16" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="320" y="380" as="sourcePoint" />
-            <mxPoint x="560" y="388" as="targetPoint" />
+            <mxPoint x="320" y="378" as="sourcePoint" />
+            <mxPoint x="560" y="378" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cr8kg0-9z8LWTzDofk2w-17" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cr8kg0-9z8LWTzDofk2w-3" target="Cr8kg0-9z8LWTzDofk2w-10">
@@ -57,6 +57,14 @@
             <mxPoint x="340" y="440" as="sourcePoint" />
             <mxPoint x="440" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Cr8kg0-9z8LWTzDofk2w-20" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="80" height="220" as="geometry">
+            <mxRectangle x="360" y="280" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cr8kg0-9z8LWTzDofk2w-22" value="&lt;div&gt;RESEAU&lt;/div&gt;&lt;div&gt;INTERNET&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Cr8kg0-9z8LWTzDofk2w-20">
+          <mxGeometry x="10" y="25" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
